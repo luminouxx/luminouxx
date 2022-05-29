@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=To%20Lumi's%20Github&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=To%20Lumi's%20Github&descAlignY=51&descAlign=62)  
 
-## YeongJin Jeong(Lumi) - iOS Developer & PM
+## YeongJin Jeong(Lumi) - iOS Developer & PM  
   
 
 ### ⭐️되고 싶어요, 성장하는 개발자, 프로젝트 매니저⭐️
@@ -19,12 +19,13 @@
 + Apple Developer Academy @postech 2022 junior learner
 + What is next?
 
+<br>
+<br>
+<br>
+<br>
 
-
-
-
-
-<h3 align='center'> 🔥Tech Stack🔥 </h3>
+<h3 align='center'> 🔥Tech Stack🔥 </h3> 
+<br>
 <br>
 <p align='center'>
   <img
@@ -41,7 +42,13 @@
   src="https://img.shields.io/badge/UIKit-2396F3?style=rounded-square&logo=UIkit&logoColor=white">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 <h3 align='center'> 🌸Sub Stack🌸 </h3>
+<br>
 <br>
 <p align='center'>
   <img
@@ -49,13 +56,16 @@
   <img
   src="https://img.shields.io/badge/Cpp-00599C?style=rounded-square&logo=C++&logoColor=white">
 </p>
-  
 
-![Lumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminouxx&show_icons=true&theme=radical)
+<br>
+<br>
+<br>
+
+![Lumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luminouxx&show_icons=true&theme=radical) 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminouxx&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminouxx&hide_border=true&layout=compact" align="center" style="width: 50%" />
 </td></tr></table>
   
 
