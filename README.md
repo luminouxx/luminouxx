@@ -12,13 +12,6 @@
 어떻게 하면 프로젝트를 효율적으로 완성할 수 있을지 생각하는 편입니다.  
 
 
-
-
-### 약력
-+ Pusan National Univ Computer Science since 2018
-+ Apple Developer Academy @postech 2022 junior learner
-+ What is next?
-
 <br>
 <br>
 <br>
