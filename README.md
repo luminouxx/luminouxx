@@ -1,16 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=To%20Lumi's%20Github&descAlignY=51&descAlign=62)  
-
+<br>
+<br>
 ## YeongJin Jeong(Lumi) - iOS Developer & PM  
   
 ### ⭐️ 성장하는 개발자,Product Manager ⭐️
 + Apple Developer Academy @ Postech 2022
 + Pusan National University Computer Engineering
 > 3개의 프로젝트를 기획해 본 경험이 있습니다. 
-> Agile 개발론에 따라 하나의 프로젝트를 진행하고 있습니다.  
-> UT를 실제로 진행하고, 결과를 모아본 경험이 있습니다. 
-> Design Pattern (MVVM, MVC)을 적용한 경험이 있습니다.
-> 
+> Agile 개발론에 따라 하나의 프로젝트를 진행하고 있습니다.   
+> UT를 실제로 진행하고, 결과를 모아본 경험이 있습니다.   
+> Design Pattern (MVVM, MVC)을 적용한 경험이 있습니다.  
+    
+    
+#### 협업 능력
+프로젝트를 진행하는 경우, 열정적이라는 평가를 많이 받았습니다. 
+오너쉽을 가지고 프로젝트에 애정을 쏟는 편입니다.
+협업을 즐기고 협업이 저의 장점이라고 생각합니다.
+아래는 프로젝트 회고에서 받은 피드백입니다.
 
++ 열정적으로 프로젝트 한다
++ 재미있게 하려고 노력한다
++ 불 붙으면 활활 잘 탄다
++ 디자인 재능이 보인다
++ 본인의 테스크 기한을 잘 정한다
 ---
   
   
