@@ -5,11 +5,11 @@
   
 ### ⭐️ 성장하는 개발자,Product Manager ⭐️
 + Apple Developer Academy @ Postech 2022
-+ Pusan National University Computer Engineering
-> 3개의 프로젝트를 기획해 본 경험이 있습니다. 
-> Agile 개발론에 따라 하나의 프로젝트를 진행하고 있습니다.   
-> UT를 실제로 진행하고, 결과를 모아본 경험이 있습니다.   
-> Design Pattern (MVVM, MVC)을 적용한 경험이 있습니다.  
++ Pusan National University Computer Engineering       
+> 3개의 프로젝트를 기획해 본 경험이 있습니다.       
+> Agile 개발론에 따라 하나의 프로젝트를 진행하고 있습니다.               
+> UT를 실제로 진행하고, 결과를 모아본 경험이 있습니다.     
+> Design Pattern (MVVM, MVC)을 적용한 경험이 있습니다.      
     
     
 #### 협업 능력
