@@ -3,7 +3,7 @@
 <br>
 ## YeongJin Jeong(Lumi) - iOS Developer & PM  
   
-### ⭐️ 성장하는 개발자,Product Manager ⭐️
+### 성장하는 개발자,Product Manager
 + Apple Developer Academy @ Postech 2022
 + Pusan National University Computer Engineering       
 > 3개의 프로젝트를 기획해 본 경험이 있습니다.       
