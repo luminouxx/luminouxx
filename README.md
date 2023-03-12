@@ -92,7 +92,8 @@
 > 내 집 주변 마감할인 플랫폼
 >> #### TechStack
 >> + **UIkit**, **RxSwift**, **FireBase**, **SnapKit**, *Moya**    
->> 12월 중 출시예정
+>>                
+>> [AppStore](https://apps.apple.com/kr/app/%EC%A4%8D%EC%A4%8D-zupzup/id1669864069)
 
 ---
 ### Tech Stack
