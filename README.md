@@ -24,8 +24,15 @@
 + 디자인 재능이 보인다
 + 본인의 테스크 기한을 잘 정한다
 ---
-  
-  
+
+### Hi!
+
+'''c++
+for(int i=0; i<5; i++)
+  cout<<"love you jogyul" <<endl;
+'''
+---
+
 ### Team
 + Tr-It (2022)
 + JubJub (2022)
