@@ -25,6 +25,7 @@
 | [Repository](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Trying-iOS) | Today-Anbu(오늘, 안부) - 부모님과 친해지기 | **UIkit**, **Moya**, **Widget**, **Notification** | [AppStore](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98-%EC%95%88%EB%B6%80/id1639304637) |
 | [Repository](https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Trying-iOS) | 우주라이크 - 데이트를 의미있게  | **UIkit**, **Combine**, **Notification**, **SnapKit**, **Tuist** | [AppStore](https://apps.apple.com/kr/app/%EC%9A%B0%EC%A3%BC%EB%9D%BC%EC%9D%B4%ED%81%AC/id6444034466) |
 | [Instagram](https://instagram.com/zup__zup?igshid=YmMyMTA2M2Y=) | ZupZup(줍줍) - 내 집 주변 마감할인 플랫폼 | **UIkit**, **RxSwift**, **FireBase**, **SnapKit**, **Alamofire** ,**Moya**, **Tuist**, **Rxcocoa**  | [AppStore](https://apps.apple.com/kr/app/%EC%A4%8D%EC%A4%8D-zupzup/id1669864069) |
+| Private | ZupZup-Manager : 줍줍 사장님용 앱 | **SwiftUI**,  **TCA**, **Combine**, **FireBase**, **Alamofire** , **Tuist**  | [AppStore](https://apps.apple.com/kr/app/%EC%A4%8D%EC%A4%8D-zupzup/id1669864069) |
 
 <br>
 
@@ -33,6 +34,7 @@
 |:--------:|:--------:|:--------:|
 | 제 1회 ESG 창업 아이디어 경진대회 | 우수상 | 꿈터플러스 |
 | 우수 기술 사업화 테크톤 경진대회 | 우수상 | 특허청, 부산대학교 |
+| 2023 예비 창업자 패키지 선정 | --- | 중소벤처기업부 |
 
 <br>
 
